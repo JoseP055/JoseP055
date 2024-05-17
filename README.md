@@ -55,12 +55,10 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.2d8eceee93fc844cb031259b0cb19dbe?rik=luDQFG1aG0HAvw&pid=ImgRaw&r=0"  />
+
 
 ###
 
-<div align="center">
-  <img height="120" src="https://media2.giphy.com/media/gG9fVWJdN41NeiHhzk/200.gif"  />
-</div>
+
 
 ###
