@@ -1,5 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-  <h1 align="center">Hi 👋! My name is Jose Pablo and I'm a student from Costa Rica.</h1>
+
+<h1 align="center">Hi 👋! My name is Jose Pablo and I'm a student from Costa Rica.</h1>
   
   <div align="center">
     <h2>GitHub Stats</h2>
@@ -11,21 +11,21 @@
 
   <div align="center">
     <h2>Social Media</h2>
-    <a href="https://www.linkedin.com/in/josepbj55/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-    </a>
-    <a href="https://www.facebook.com/josepablo.barrantesjimenez.7" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
-    </a>
-    <a href="https://www.instagram.com/josepbj_55/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
-    </a>
-    <a href="https://wa.me/+50683389426/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-    </a>
-    <a href="https://jpbj-wportfolio.surge.sh" target="_blank" style="display: flex; justify-content: center;">
-      <i class="fas fa-globe" style="font-size: 35px; color: rgb(26, 1, 255);"></i>
-    </a>
+        <a href="www.linkedin.com/in/jose-pablo-barrantes-j" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+        </a>
+        <a href="https://www.facebook.com/josepablo.barrantesjimenez.7" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+        </a>
+        <a href="https://www.instagram.com/jplinux_55/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+        </a>
+        <a href="https://wa.me/+50683389426/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+        </a>
+        <a href="https://jpbj-wportfolio.surge.sh/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message= Personal WebSite&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="40" alt="codesandbox logo"  />
+        </a>
   </div>
   
   <br>
@@ -55,3 +55,7 @@
     <h2>Visitor Count</h2>
     <img src="https://profile-counter.glitch.me/JoseP055/count.svg?" />
   </div>
+
+
+
+  
