@@ -64,7 +64,7 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=highcontrast" height="150" alt="Top Languages" />
 </div>
 
