@@ -77,10 +77,6 @@ My focus is on building data-driven and efficient solutions that merge analytics
   <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=dracula&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
 </div>
 
----
-
-
-
 <!-- Professional Footer -->
 <div align="center">
   <hr style="width:60%;margin:auto;border:1px solid #444;">
