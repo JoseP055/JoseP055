@@ -1,10 +1,10 @@
-<h1 align="center">Hey 👋 I'm Jose Pablo Barrantes</h1>
+<h1 align="center">Hey, I'm Jose Pablo Barrantes</h1>
 
-<h3 align="center">💻 Systems Engineering Student | Data & Tech Enthusiast | Costa Rica 🇨🇷</h3>
+<h3 align="center">Systems Engineering Student | Data & Technology Enthusiast | Costa Rica</h3>
 
 <p align="center">
-I’m passionate about <b>Data Science, Machine Learning, and Software Development</b>.  
-I love building meaningful solutions that blend analytics, creativity, and technology to solve real-world problems.
+I am passionate about <b>Data Science, Machine Learning, and Software Development</b>.  
+My focus is on building data-driven and efficient solutions that merge analytics, technology, and strategy to solve real-world challenges.
 </p>
 
 ---
@@ -33,26 +33,26 @@ I love building meaningful solutions that blend analytics, creativity, and techn
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/josep55/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/jplinux_55/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
   </a>
   <a href="https://wa.me/+50683389426/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&logoColor=white&style=for-the-badge" height="25" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" alt="WhatsApp" />
   </a>
   <a href="https://jpbj-wportfolio.surge.sh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&color=000000&logoColor=white&style=for-the-badge" height="25" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?logoColor=white&style=for-the-badge" alt="Portfolio" />
   </a>
 </div>
 
 ---
 
-## ⚙️ GitHub Stats
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
@@ -61,7 +61,7 @@ I love building meaningful solutions that blend analytics, creativity, and techn
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JoseP055&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
@@ -70,12 +70,12 @@ I love building meaningful solutions that blend analytics, creativity, and techn
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎯 Focused on **Data Science**, **Machine Learning**, and **Software Development**
-- 🚀 Founder of **Evidens CR**, a project that combines analytics and strategy to drive smart decisions
-- 🌱 Always learning and improving — exploring new technologies and methodologies
-- 💬 Motto: *"Clarity, precision, and evidence — data always tells the truth."*
+- Focused on **Data Science**, **Machine Learning**, and **Software Development**  
+- Founder of **Evidens CR**, a project dedicated to analytical and strategic decision-making  
+- Constant learner, always exploring new technologies and improving technical and analytical skills  
+- Guiding principle: *"Clarity, precision, and evidence — data always tells the truth."*
 
 ---
 
