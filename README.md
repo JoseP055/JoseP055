@@ -74,7 +74,7 @@ My focus is on building data-driven and efficient solutions that merge analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=highcontrast&hide_border=false" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=github_dark&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
 </div>
 
 <!-- Professional Footer -->
