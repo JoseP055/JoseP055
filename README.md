@@ -64,8 +64,8 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=tokyonight" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -73,8 +73,8 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=dracula&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=tokyonight&hide_border=false" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
 </div>
 
 <!-- Professional Footer -->
