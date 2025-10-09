@@ -9,6 +9,15 @@ My focus is on building data-driven and efficient solutions that merge analytics
 
 ---
 
+## About Me
+
+- Focused on **Data Science**, **Machine Learning**, and **Software Development**  
+- Founder of **Evidens CR**, a project dedicated to analytical and strategic decision-making  
+- Constant learner, always exploring new technologies and improving technical and analytical skills  
+- Guiding principle: *"Clarity, precision, and evidence — data always tells the truth."*
+
+---
+
 <!-- Skills Section -->
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,ts,nextjs,tailwind,react,java,mysql,aws,git,linux" height="60" alt="skills"/>
@@ -70,14 +79,7 @@ My focus is on building data-driven and efficient solutions that merge analytics
 
 ---
 
-## About Me
 
-- Focused on **Data Science**, **Machine Learning**, and **Software Development**  
-- Founder of **Evidens CR**, a project dedicated to analytical and strategic decision-making  
-- Constant learner, always exploring new technologies and improving technical and analytical skills  
-- Guiding principle: *"Clarity, precision, and evidence — data always tells the truth."*
-
----
 
 <!-- Professional Footer -->
 <div align="center">
