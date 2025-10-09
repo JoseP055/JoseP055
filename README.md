@@ -64,7 +64,7 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## Achievements
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=JoseP055&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=dracula&hide_border=false" height="150" alt="Streak Stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=dracula&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
 </div>
 
@@ -79,14 +79,14 @@ My focus is on building data-driven and efficient solutions that merge analytics
 
 ---
 
-<!-- Footer Section -->
+<!-- Professional Footer -->
 <div align="center">
   <hr style="width:60%;margin:auto;border:1px solid #444;">
-  <p style="font-size:14px;color:gray;">
-    Built with dedication and curiosity by <b>Jose Pablo Barrantes</b>.<br>
-    Inspired by data, driven by logic, and guided by purpose.<br><br>
+  <p style="font-size:13px;color:gray;margin-top:10px;">
+    Designed and maintained by <b>Jose Pablo Barrantes</b> · Systems Engineering Student · Costa Rica<br>
+    <i>“Turning data into clarity, one insight at a time.”</i><br><br>
     <a href="https://github.com/JoseP055" target="_blank" style="color:#999;text-decoration:none;">
-      © 2025 Jose Pablo Barrantes | All rights reserved
+      © 2025 Jose Pablo Barrantes — All rights reserved
     </a>
   </p>
 </div>
