@@ -84,7 +84,7 @@ My focus is on building data-driven and efficient solutions that merge analytics
     Designed and maintained by <b>Jose Pablo Barrantes</b> · Systems Engineering Student · Costa Rica<br>
     <i>“Turning data into clarity, one insight at a time.”</i><br><br>
     <a href="https://github.com/JoseP055" target="_blank" style="color:#999;text-decoration:none;">
-      © 2025 Jose Pablo Barrantes — All rights reserved
+      © 2025 Jose Pablo Barrantes J — All rights reserved
     </a>
   </p>
 </div>
