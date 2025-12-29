@@ -64,11 +64,13 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## GitHub Statistics
 
 <div align="center">
+  <!-- Stats -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast"
     height="150"
     alt="GitHub Stats"
   />
+  <!-- Top Languages -->
   <img
     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=highcontrast"
     height="150"
@@ -81,11 +83,13 @@ My focus is on building data-driven and efficient solutions that merge analytics
 ## Achievements
 
 <div align="center">
+  <!-- Streak: endpoint recomendado -->
   <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=highcontrast&hide_border=false"
+    src="https://streak-stats.demolab.com?user=JoseP055&theme=highcontrast&hide_border=false"
     height="150"
     alt="Streak Stats"
   />
+  <!-- Trophies -->
   <img
     src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8"
     height="150"
