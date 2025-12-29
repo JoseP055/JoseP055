@@ -3,24 +3,24 @@
 <h3 align="center">Systems Engineering Student | Data & Technology Enthusiast | Costa Rica</h3>
 
 <p align="center">
-  I am passionate about <b>Data Science, Machine Learning, and Software Development</b>.<br>
-  My focus is on building data-driven and efficient solutions that merge analytics, technology, and strategy to solve real-world challenges.
+I am passionate about <b>Data Science, Machine Learning, and Software Development</b>.  
+My focus is on building data-driven and efficient solutions that merge analytics, technology, and strategy to solve real-world challenges.
 </p>
 
 ---
 
 ## About Me
 
-- Focused on <b>Data Science</b>, <b>Machine Learning</b>, and <b>Software Development</b>  
-- Founder of <b>Evidens CR</b>, a project dedicated to analytical and strategic decision-making  
+- Focused on **Data Science**, **Machine Learning**, and **Software Development**  
+- Founder of **Evidens CR**, a project dedicated to analytical and strategic decision-making  
 - Constant learner, always exploring new technologies and improving technical and analytical skills  
-- Guiding principle: <i>"Clarity, precision, and evidence — data always tells the truth."</i>
+- Guiding principle: *"Clarity, precision, and evidence — data always tells the truth."*
 
 ---
 
 <!-- Skills Section -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,tailwind,react,java,mysql,aws,git,linux" height="60" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,tailwind,react,java,mysql,aws,git,linux" height="60" alt="skills"/>
 </div>
 
 <br>
@@ -45,7 +45,7 @@
 ## Connect with Me
 
 <div align="center">
-  <a href="https://cr.linkedin.com/in/josep55" target="_blank">
+  <a href="https://www.linkedin.com/in/josep55/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/jplinux_55/" target="_blank">
@@ -64,16 +64,8 @@
 ## GitHub Statistics
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=highcontrast"
-    height="150"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseP055&layout=compact&langs_count=6&theme=highcontrast" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -81,16 +73,8 @@
 ## Achievements
 
 <div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=JoseP055&theme=highcontrast&hide_border=false"
-    height="150"
-    alt="Streak Stats"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8"
-    height="150"
-    alt="Trophy Graph"
-  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=JoseP055&theme=highcontrast&hide_border=false" height="150" alt="Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8" height="150" alt="Trophy Graph" />
 </div>
 
 <!-- Professional Footer -->
