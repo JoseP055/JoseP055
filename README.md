@@ -5,8 +5,8 @@ Systems Engineering Student | Data Science & Machine Learning Enthusiast | Costa
 </h3>
 
 <p align="center">
-Passionate about <b>Data Science, Machine Learning, and Software Development</b>.<br>
-I build data-driven, scalable, and efficient solutions that connect analytics, technology, and strategy to solve real-world problems.
+I build <b>data-driven and scalable solutions</b> that combine analytics, technology,
+and strategic thinking to solve real-world problems.
 </p>
 
 ---
@@ -14,8 +14,8 @@ I build data-driven, scalable, and efficient solutions that connect analytics, t
 ## About Me
 
 - Focused on **Data Science**, **Machine Learning**, and **Software Development**
-- Founder of **Evidens CR**, a project centered on analytical and strategic decision-making
-- Constant learner, always exploring new technologies and strengthening analytical thinking
+- Founder of **Evidens CR**, a project focused on analytical decision-making
+- Continuous learner with strong analytical and problem-solving mindset
 - Guiding principle:  
   <i>"Clarity, precision, and evidence — data always tells the truth."</i>
 
@@ -24,7 +24,7 @@ I build data-driven, scalable, and efficient solutions that connect analytics, t
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,nextjs,react,tailwind,java,mysql,aws,git,linux&theme=dark" height="55" />
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,tailwind,java,mysql,aws,git,linux&theme=dark" height="55"/>
 </div>
 
 <br>
@@ -39,8 +39,6 @@ I build data-driven, scalable, and efficient solutions that connect analytics, t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="28"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28"/>
 </div>
 
 ---
@@ -67,17 +65,25 @@ I build data-driven, scalable, and efficient solutions that connect analytics, t
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseP055&layout=compact&langs_count=8&theme=highcontrast" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=JoseP055&show_icons=true&include_all_commits=true&theme=highcontrast"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseP055&layout=compact&langs_count=8&theme=highcontrast"
+    height="150"
+  />
 </div>
 
 ---
 
-## Achievements
+## Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JoseP055&theme=highcontrast&hide_border=false" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JoseP055&theme=tokyonight&margin-w=8&no-frame=true" height="150"/>
+  <img
+    src="https://streak-stats.demolab.com?user=JoseP055&theme=highcontrast"
+    height="150"
+  />
 </div>
 
 ---
